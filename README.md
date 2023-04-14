@@ -1,4 +1,4 @@
-# portfolio-projects
+# Pet-projects
 
 В репозитории представлены pet-проекты по темам:
 
